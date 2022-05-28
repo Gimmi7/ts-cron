@@ -1,5 +1,5 @@
 {
-  "name": "ts-cron",
+  "name": "@gimmi7/ts-cron",
   "version": "1.0.0",
   "description": "",
   "main": "dist/src/tscron.js",
