@@ -1,6 +1,6 @@
 {
   "name": "@gimmi7/ts-cron",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/src/tscron.js",
   "type": "module",
@@ -22,7 +22,7 @@
     "@typescript-eslint/parser": "^5.26.0"
   },
   "dependencies": {
-    "@gimmi7/ts-worker-pool": "^1.0.3",
+    "@gimmi7/ts-worker-pool": "^1.0.4",
     "cron-schedule": "^3.0.6"
   }
 }
